@@ -1,88 +1,91 @@
-# FiveM Sentinel — Terms of Service
+🛡️ Sentinel Moderation — Terms of Service
 
-**Last Updated:** August 27, 2026
+Last Updated: October 2, 2026
 
-By adding, using, or interacting with **FiveM Sentinel**, you agree to these Terms of Service. If you do not agree with these terms, you must stop using the bot and remove it from your Discord server.
+Welcome to Sentinel Moderation ("Sentinel", "the Bot", "we", "us", or "our"). By adding Sentinel to a Discord server, using Sentinel's commands, dashboard, features, or services, you agree to these Terms of Service.
 
-## 1. About FiveM Sentinel
+1. Use of Sentinel
 
-FiveM Sentinel is a Discord-based monitoring and management service designed to provide information and notifications relating to FiveM servers.
+Sentinel is a Discord moderation, security, automation, and server-management system designed to help Discord communities manage and protect their servers.
 
 Features may include:
 
-* FiveM server status monitoring
-* Online/offline notifications
-* Player count monitoring
-* Peak player tracking
-* Server restart detection
-* Discord status embeds
-* Server uptime information
-* Staff and administrator notifications
-* Other monitoring and community features introduced over time
+Moderation commands
+Auto-moderation
+Anti-spam and anti-raid protection
+Server lockdown and security tools
+Moderation case tracking
+Logging
+Ticket systems
+Application systems
+Welcome and goodbye messages
+Leveling and XP
+Economy features
+Reminders
+Custom commands
+Automations
+Server statistics
+Dashboard configuration
 
-Features may change, be added, or be removed at any time.
+Features may be added, changed, suspended, or removed at any time.
 
-## 2. Acceptable Use
+2. Discord Account and Server Permissions
 
-You agree not to use FiveM Sentinel to:
+You are responsible for ensuring that you have appropriate authorization to add or configure Sentinel on a Discord server.
 
-* Abuse, overload, or intentionally disrupt the service
-* Attempt to gain unauthorized access to the bot, infrastructure, or other users' information
-* Reverse engineer, exploit, or interfere with the bot
-* Use the bot for illegal activities
-* Attempt to bypass security, restrictions, or rate limits
-* Use FiveM Sentinel to harass, threaten, or target other users
-* Intentionally provide false or misleading information to abuse the service
+You must not use Sentinel to:
 
-We reserve the right to restrict or terminate access if these rules are violated.
+Harass, threaten, or target other users
+Circumvent Discord's systems or restrictions
+Conduct malicious or abusive activity
+Attempt to interfere with Sentinel or its infrastructure
+Abuse moderation or security features
+Use the service for unlawful purposes
 
-## 3. Discord Requirements
+Sentinel should be used in accordance with Discord's Terms of Service and Community Guidelines.
 
-FiveM Sentinel operates through Discord and is therefore subject to Discord's Terms of Service and Community Guidelines.
+3. Moderation Responsibility
 
-You are responsible for ensuring that your use of FiveM Sentinel within your Discord server complies with Discord's rules.
+Sentinel provides automated tools, but server owners and administrators remain responsible for how those tools are configured and used.
 
-Server owners and administrators are responsible for configuring the bot appropriately and ensuring that their staff members use it responsibly.
+Automated actions may occasionally produce incorrect results. Server administrators are responsible for reviewing their configuration and moderation actions.
 
-## 4. Availability
+Sentinel does not guarantee that automated moderation will detect every violation, spam message, raid, malicious action, or security threat.
 
-FiveM Sentinel is provided on an **"as-is" and "as-available"** basis.
+4. Dashboard
 
-We do not guarantee:
+The Sentinel dashboard may allow authorized Discord users to configure server settings, view moderation information, manage features, and perform other administrative functions.
 
-* 100% uptime
-* Continuous availability
-* Accurate FiveM server information at all times
-* Immediate notifications
-* Error-free operation
-* Compatibility with every FiveM server configuration
+You are responsible for maintaining the security of your Discord account and ensuring that only authorized administrators access your server's Sentinel dashboard.
 
-Temporary outages may occur due to maintenance, Discord outages, FiveM outages, hosting issues, network problems, or other circumstances outside our control.
+5. Availability
 
-## 5. Third-Party Services
+We attempt to keep Sentinel available and operational, but we do not guarantee uninterrupted service.
 
-FiveM Sentinel may interact with third-party services, including Discord and FiveM-related services.
+Sentinel may become temporarily unavailable because of:
 
-We are not responsible for outages, changes, restrictions, API limitations, or other issues caused by third-party services.
+Maintenance
+Discord outages or API limitations
+Hosting or infrastructure problems
+Software updates
+Security incidents
+Other circumstances outside our reasonable control
+6. Termination
 
-## 6. Termination
+We may suspend or terminate access to Sentinel if necessary to protect the service, its users, or infrastructure, or if these Terms are violated.
 
-We may suspend or terminate access to FiveM Sentinel at any time if we believe that a user or server has violated these Terms of Service, abused the service, or created a security or operational risk.
+Server administrators may remove Sentinel from their Discord server at any time.
 
-You may stop using the service at any time by removing FiveM Sentinel from your Discord server.
+7. Disclaimer
 
-## 7. Changes to These Terms
+Sentinel is provided on an "as is" and "as available" basis.
 
-We may update these Terms of Service from time to time.
+We do not guarantee that Sentinel will prevent every raid, spam attack, moderation violation, security incident, or other harmful activity.
 
-Continued use of FiveM Sentinel after changes are published constitutes acceptance of the updated terms.
+8. Changes to These Terms
 
-## 8. Disclaimer
+We may update these Terms from time to time. Continued use of Sentinel after changes are published constitutes acceptance of the updated Terms.
 
-FiveM Sentinel is an independent service and is **not affiliated with, endorsed by, or sponsored by Rockstar Games, FiveM, Cfx.re, or Discord**, unless explicitly stated otherwise.
+9. Contact
 
-## 9. Contact
-
-If you have questions, concerns, or requests regarding these Terms of Service, please contact the FiveM Sentinel support team through the official support server.
-
-**FiveM Sentinel — Monitor. Detect. Protect.**
+For questions regarding these Terms, please contact the Sentinel Moderation team through the official support channel or contact method provided by the Sentinel project.
