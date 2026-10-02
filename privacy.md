@@ -1,117 +1,133 @@
-# FiveM Sentinel — Privacy Policy
+🔐 Sentinel Moderation — Privacy Policy
 
-**Last Updated:** August 27, 2026
+Last Updated: October 2, 2026
 
-This Privacy Policy explains how **FiveM Sentinel** may collect, use, store, and protect information when you use the bot or its related services.
+This Privacy Policy explains how Sentinel Moderation collects, uses, and handles information when you use the Sentinel Discord bot and dashboard.
 
-## 1. Information We May Collect
+1. Information We May Collect
 
-Depending on the features you use, FiveM Sentinel may process limited information such as:
+Depending on which Sentinel features are enabled on a server, Sentinel may process information including:
 
-### Discord Information
+Discord information
 
-* Discord User ID
-* Discord Server/Guild ID
-* Discord Channel ID
-* Discord Role ID
-* Discord username or display name
-* Bot configuration settings
-* Permissions required for the bot to operate
+Discord user IDs
+Discord server IDs
+Discord channel IDs
+Discord role IDs
+Usernames and display information
+Server and channel configuration information
 
-### FiveM Server Information
+Moderation information
 
-When a server is configured for monitoring, FiveM Sentinel may process publicly available server information such as:
+When moderation features are used, Sentinel may store:
 
-* Server IP/hostname
-* Server name
-* Server status
-* Player count
-* Maximum player capacity
-* Player information exposed through FiveM's server endpoints
-* Server uptime/status information
-* Monitoring timestamps
+Moderation case IDs
+Moderation action types
+The Discord ID of the affected user
+The Discord ID of the moderator
+Moderation reasons
+Case timestamps
 
-FiveM Sentinel does not intentionally collect private information that is not required for its features.
+Server configuration
 
-## 2. How Information Is Used
+Sentinel may store configuration information such as:
+
+Enabled or disabled features
+Moderation settings
+AutoMod settings
+Logging configuration
+Ticket configuration
+Application configuration
+Custom commands
+Automation settings
+Leveling configuration
+Economy configuration
+Security settings
+2. Messages and AutoMod
+
+When AutoMod is enabled, Sentinel may process message content in order to detect configured violations such as:
+
+Spam
+Excessive mentions
+Discord invite links
+Links
+Configured blocked words
+
+Sentinel may take an automated action based on the server's configuration, such as deleting a message or applying a timeout.
+
+Sentinel's logging system may also record information about deleted messages when message-deletion logging is enabled.
+
+3. Tickets and Transcripts
+
+If a server uses Sentinel's ticket system, Sentinel may process messages and attachments contained within ticket channels.
+
+If a ticket transcript is requested, Sentinel may generate a transcript containing information from the ticket and send it to the configured transcript channel.
+
+Server administrators are responsible for ensuring that their ticket configuration and transcript practices comply with applicable laws and their community's privacy requirements.
+
+4. Dashboard Authentication
+
+The Sentinel dashboard may use Discord OAuth to authenticate users.
+
+When you authenticate with Discord, Sentinel may receive information provided through the requested Discord OAuth permissions, such as your Discord identity and servers you have access to.
+
+5. How Information Is Used
 
 Information may be used to:
 
-* Monitor configured FiveM servers
-* Send Discord status notifications
-* Display server information
-* Track uptime and availability
-* Provide bot functionality
-* Prevent abuse
-* Diagnose technical problems
-* Improve reliability and performance
-* Provide support
+Provide Sentinel's features
+Execute moderation actions
+Maintain moderation records
+Provide server security functionality
+Store server configuration
+Operate tickets and applications
+Provide dashboard functionality
+Maintain and troubleshoot the service
+Detect abuse or unauthorized activity
+Improve reliability and security
 
-We do not use collected information for purposes unrelated to operating and improving FiveM Sentinel unless otherwise stated.
+We do not use server or user information for unrelated purposes.
 
-## 3. Data Storage
+6. Data Storage
 
-Some configuration information may be stored so that FiveM Sentinel can continue operating after restarts.
+Sentinel stores certain server configuration and operational information in its database so that settings and features can persist between bot restarts.
 
-Stored information may include:
+Moderation cases, reminders, XP information, automations, custom commands, and server configuration may be retained according to the service's implementation and configuration.
 
-* Discord server configuration
-* Monitoring settings
-* Channel IDs
-* Role IDs
-* FiveM server configuration
-* Uptime or monitoring statistics
+7. Data Sharing
 
-We aim to retain only information reasonably necessary to provide the service.
+Sentinel does not intentionally sell personal information.
 
-## 4. Data Sharing
+Information may be processed through Discord and infrastructure providers required to operate the service.
 
-We do **not sell personal information**.
+Sentinel may also disclose information where reasonably necessary to:
 
-Information may only be shared when reasonably necessary to:
+Comply with applicable law
+Respond to lawful requests
+Protect the service or its users
+Investigate abuse or security incidents
+8. Your Responsibilities
 
-* Operate FiveM Sentinel
-* Provide technical support
-* Protect the service from abuse
-* Comply with applicable legal obligations
-* Respond to valid legal requests
+Server administrators are responsible for configuring Sentinel appropriately and informing their community about relevant data processing.
 
-FiveM Sentinel does not intentionally provide user data to advertisers for advertising purposes.
+You should avoid using Sentinel to unnecessarily collect or expose sensitive personal information.
 
-## 5. Data Security
+9. Data Deletion
 
-We take reasonable measures to protect information processed by FiveM Sentinel.
+If you would like information associated with a server or account to be reviewed or deleted, contact the Sentinel Moderation team through the official support channel.
 
-However, no online service can guarantee absolute security. You acknowledge that information transmitted over the internet may carry inherent risks.
+Some information may need to be retained where required for security, legal, operational, or legitimate record-keeping purposes.
 
-## 6. Data Deletion
+10. Security
 
-If you no longer want your Discord server configuration associated with FiveM Sentinel, you may request its removal through the official support server.
+We take reasonable measures to protect information processed by Sentinel. However, no internet-based service can guarantee absolute security.
 
-Removing the bot from a Discord server may also prevent FiveM Sentinel from continuing to process information from that server.
+11. Changes to This Privacy Policy
 
-Some information may be retained for a limited period where necessary for security, abuse prevention, legal compliance, backups, or legitimate operational purposes.
+This Privacy Policy may be updated periodically to reflect changes to Sentinel's features, infrastructure, or data practices.
 
-## 7. Children's Privacy
+The latest version will be made available through the official Sentinel website or dashboard.
 
-FiveM Sentinel is not intentionally designed to collect personal information from children.
+12. Contact
 
-Users should comply with Discord's age requirements and applicable laws when using the service.
-
-## 8. Third-Party Services
-
-FiveM Sentinel may rely on third-party platforms and services, including Discord and FiveM-related services.
-
-Those services have their own privacy policies and terms, which are separate from FiveM Sentinel's policies.
-
-## 9. Changes to This Privacy Policy
-
-This Privacy Policy may be updated when FiveM Sentinel's features, data practices, or legal requirements change.
-
-The latest version will be made available through the official FiveM Sentinel community or documentation.
-
-## 10. Contact
-
-For privacy questions, data deletion requests, or other privacy concerns, contact the FiveM Sentinel support team through the official support server.
-
-**FiveM Sentinel — Monitor. Detect. Protect.**
+For privacy questions, data requests, or concerns regarding Sentinel's handling of information, contact the Sentinel Moderation team through the official support method provided by the project.
